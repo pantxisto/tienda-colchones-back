@@ -1,0 +1,165 @@
+[
+    {
+        "name": "Somier 1",
+        "type": "Somier",
+        "prize": 99.99,
+        "description": "El somier 1 es un somier...",
+        "imagePath": "/images/somier1.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Somier 2",
+        "type": "Somier",
+        "prize": 98.99,
+        "description": "El somier 2 es un somier...",
+        "imagePath": "/images/somier2.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Somier 3",
+        "type": "Somier",
+        "prize": 97.99,
+        "description": "El somier 3 es un somier...",
+        "imagePath": "/images/somier3.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Somier 4",
+        "type": "Somier",
+        "prize": 96.99,
+        "description": "El somier 4 es un somier...",
+        "imagePath": "/images/somier4.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Somier 5",
+        "type": "Somier",
+        "prize": 95.99,
+        "description": "El somier 5 es un somier...",
+        "imagePath": "/images/somier5.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Somier 6",
+        "type": "Somier",
+        "prize": 94.99,
+        "description": "El somier 6 es un somier...",
+        "imagePath": "/images/somier6.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Somier 7",
+        "type": "Somier",
+        "prize": 93.99,
+        "description": "El somier 7 es un somier...",
+        "imagePath": "/images/somier7.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Somier 8",
+        "type": "Somier",
+        "prize": 92.99,
+        "description": "El somier 8 es un somier...",
+        "imagePath": "/images/somier8.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Somier 9",
+        "type": "Somier",
+        "prize": 91.99,
+        "description": "El somier 9 es un somier...",
+        "imagePath": "/images/somier9.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Somier 10",
+        "type": "Somier",
+        "prize": 90.99,
+        "description": "El somier 10 es un somier...",
+        "imagePath": "/images/somier10.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Colchon 1",
+        "type": "Colchon",
+        "prize": 99.99,
+        "description": "El Colchon 1 es un Colchon...",
+        "imagePath": "/images/colchon1.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Colchon 2",
+        "type": "Colchon",
+        "prize": 98.99,
+        "description": "El Colchon 2 es un Colchon...",
+        "imagePath": "/images/colchon2.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Colchon 3",
+        "type": "Colchon",
+        "prize": 97.99,
+        "description": "El Colchon 3 es un Colchon...",
+        "imagePath": "/images/colchon3.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Colchon 4",
+        "type": "Colchon",
+        "prize": 96.99,
+        "description": "El Colchon 4 es un Colchon...",
+        "imagePath": "/images/colchon4.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Colchon 5",
+        "type": "Colchon",
+        "prize": 95.99,
+        "description": "El Colchon 5 es un Colchon...",
+        "imagePath": "/images/colchon5.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Colchon 6",
+        "type": "Colchon",
+        "prize": 94.99,
+        "description": "El Colchon 6 es un Colchon...",
+        "imagePath": "/images/colchon6.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Colchon 7",
+        "type": "Colchon",
+        "prize": 93.99,
+        "description": "El Colchon 7 es un Colchon...",
+        "imagePath": "/images/colchon7.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Colchon 8",
+        "type": "Colchon",
+        "prize": 92.99,
+        "description": "El Colchon 8 es un Colchon...",
+        "imagePath": "/images/colchon8.jpg",
+        "favorite": true
+    },
+    {
+        "name": "Colchon 9",
+        "type": "Colchon",
+        "prize": 91.99,
+        "description": "El Colchon 9 es un Colchon...",
+        "imagePath": "/images/colchon9.jpg",
+        "favorite": false
+    },
+    {
+        "name": "Colchon 10",
+        "type": "Colchon",
+        "prize": 90.99,
+        "description": "El Colchon 10 es un Colchon...",
+        "imagePath": "/images/colchon10.jpg",
+        "favorite": true
+    }
+]
+
+        
+        
